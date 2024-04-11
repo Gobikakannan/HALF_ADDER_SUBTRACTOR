@@ -35,6 +35,11 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+![exp3 table add](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/bad572ca-0b90-47e1-a9e7-16039d948527)
+
+![exp3 tsable  sub](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/4cfa7479-4999-4cd7-addf-b9b5deeecce0)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,12 +55,24 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
+![exp3 code](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/c570829f-0dac-42ed-a77f-64d4f68a68d3)
+
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: Gobika K
+RegisterNumber:212222050013
 
 **RTL Schematic**
 
+![exp3 rtl add](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/0437572a-7931-4374-a05a-34e9f11e2126)
+#### Half Subtractor:
+![exp3 rtl sub](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/950927bc-52a4-42ad-9436-913368b412eb)
+
 **Output/TIMING Waveform**
+#### Half Adder:
+![exp3 output add](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/320d84d8-8e74-4437-b191-ea20991cd421)
+
+![exp3 output sub](https://github.com/Gobikakannan/HALF_ADDER_SUBTRACTOR/assets/163496346/afde4f77-3dcf-4e38-ad4e-d48dea07fe82)
 
 **Result:**
+Thus the half subtractor and half adder circuits are designed and the truth table is verified using quartus software.
